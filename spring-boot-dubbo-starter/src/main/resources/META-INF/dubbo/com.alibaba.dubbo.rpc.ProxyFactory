@@ -1,0 +1,1 @@
+hystrix=com.alex.spring.boot.dubbo.starter.HystrixProxy
